@@ -1,0 +1,19 @@
+.search_bar{
+  width: 690rpx;
+  height: 56rpx;
+  background-color: #ededed;
+  border-radius: 8rpx ;
+  margin: 0 auto;
+  color: #666;
+  font-size: 30rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.search_bar_con{
+  position: relative;
+}
+.search_bar_con::before{
+  content: " ";
+  position:absolute;
+}

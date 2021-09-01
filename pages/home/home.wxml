@@ -1,0 +1,21 @@
+<view class="home">
+  <!-- 搜索框 -->
+  <view class="search_bar">
+    <text class="search_bar_con">商品搜索,共239款好物</text>
+  </view>
+  <!-- 轮播图 -->
+  <swiper>
+    <swiper-item>
+      <image src=""></image>
+    </swiper-item>
+  </swiper>
+  <!-- 分类 -->
+  <view>
+    <view>
+      <image></image>
+      <text></text>
+    </view>
+  </view>
+  <!-- 楼层 -->
+  <view></view>
+</view>
